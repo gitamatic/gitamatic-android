@@ -137,7 +137,7 @@ Simply tap the **Add** button to create your first composition.
 
 A dialog will appear prompting you to enter the **composition name**.  
 Tap **Create** to proceed.  
-![Create Dialog](img2)  
+![Create Dialog](Create_Dialog.png)  
 
 Once created, your new composition will open immediately.
 
@@ -147,7 +147,7 @@ Once created, your new composition will open immediately.
 
 If you already have compositions, Gitamatic will open directly into the **Composition List**.  
 At the top, you'll see the Gitamatic logo and a **menu icon** on the right.  
-![Composition List](img3)
+![Composition List](Composition_List.png)
 
 ---
 
@@ -169,39 +169,40 @@ Each composition is displayed as a card with:
 - **Composition name**  
 - **Duration**  
 - **Last modified date & time**  
-![Composition Card](img4)
+![Composition Card](Composition_Card.png)
 
 When tapping **Play**, the composition begins playback:  
 - The **Pause** button replaces Play  
 - A real-time timer and progress bar appear  
-![Playback Mode](img5)
+![Playback Mode](Playback_Mode.png)
 
 ---
 
 ### 3.5. Editing a Composition
 
 A composition opens in the **Editor View**, which includes a top action bar and the main note editor.  
-![Editor View](img6)
+![Editor View](Editor_View.png)
 
 #### 3.5.1 Top Action Bar  
-![Top Bar](img7)
+![Top Bar](Top_Bar.png)
 
 ##### 3.5.1.1 Back Navigation  
 Tap to return to the composition list  
-![Back Button](img8)
+![Back Button](Back_Button.png)
 
 ##### 3.5.1.2 Composition Title  
 Displays the name of the current composition  
-![Title](img9)
+![Title](Title.png)
 
 ##### 3.5.1.3 Play / Stop Button  
 Controls playback of the current composition  
-![Play/Stop](img10)
+![Play](Play.png)
+![Stop](Stop.png)
 
 ##### 3.5.1.4 Composition Menu  
 Opens a dropdown with the following options:  
-![Menu](img11)  
-![Menu Options](img12)
+![Menu](Menu.png)  
+![Menu Options](Menu_Options.png)
 
 - **Layout Design** – Configure visual layout and style  
 - **Rename** – Rename the current composition  
@@ -219,7 +220,7 @@ Gitamatic offers two main editing modes: **Layout Mode** and **Grid Mode**
 
 Tap the icon with three vertical bars.  
 It becomes active (highlighted in blue).  
-![Layout Mode Button](img14)
+![Layout Mode Button](Layout_Mode_Button.png)
 
 ---
 
@@ -228,7 +229,7 @@ It becomes active (highlighted in blue).
 The editor grid contains:
 - **6 vertical columns** representing the 6 strings of an acoustic guitar
 - **Infinite horizontal rows** for note progression, as a composition can be of any length  
-![Editor Grid](img15)
+![Editor Layout Mode](Editor_Layout_Mode.png)
 
 ---
 
@@ -240,14 +241,14 @@ From there, you can:
 1. **Create a new note**  
 2. **Edit an existing note**  
 3. **Delete the note**  
-![Cell Interaction](img16)
+![Cell Interaction](Cell_Interaction.png)
 
 #### 3.5.2.3. Scrolling the Editor
 
 To navigate vertically in the composition — from the beginning to later moments — simply **scroll with your fingers**.  
 On the right side, the **time ruler** helps you see the current position.  
 In the example below, the selected cell is approximately at second 32.  
-![Scroll in Editor](img17)
+![Scroll in Editor](Scroll_Editor.png)
 
 ---
 
@@ -260,12 +261,12 @@ To add a new note, either:
 A note configuration window will open:  
 - Set the parameters  
 - Tap **Save** to confirm or **Cancel** to discard  
-![Note Creation Dialog](img18)
+![Note Creation Dialog](Note_Creation_Dialog.png)
 
 The created note appears as a **vertical rectangle**:
 - It spans nearly the full width of a column  
 - Its height represents duration (default: ~3 seconds)  
-![New Note Visual](img19)
+![New Note Visual](New_Note_Visual.png)
 
 ---
 
@@ -279,22 +280,22 @@ This opens the same configuration window as for a new note.
 ##### 3.5.2.6.1 Volume
 - Adjustable from **0% (min)** to **100% (max)**
 - Available via input field and slider  
-![Volume Control](img17)
+![Volume Control](Volume_Control.png)
 
 ##### 3.5.2.6.2 Duration
 - Maximum: **3 sec (3000 ms)**  
 - Minimum: **0 sec**
 - Editable with the same type of controls as volume  
-![Duration Control](img17)
+![Duration Control](Duration_Control.png)
 
 ##### 3.5.2.6.3 Note Start Position
 - Set the note's start time using a numeric input  
-![Position Input](img17)
+![Position Input](Position_Input.png)
 
 ##### 3.5.2.6.4 Note Level (Fret)
 - Select the fret number (0–21) on the selected string  
 - For example: **String 4, fret 5**  
-![Note Level Grid](img17)
+![Note Level Grid](Note_Level_Grid.png)
 
 ---
 
@@ -304,7 +305,8 @@ To delete a note:
 1. Double-tap the note  
 2. In the edit panel, tap the small **X icon (delete)**  
 3. The note will be removed from the composition  
-![Delete Note](img17)
+![Delete Note](Delete_Note.png)
+![Delete Note Icon](Delete_Note_Icon.png)
 
 ---
 
@@ -315,7 +317,8 @@ To move a note interactively:
 2. **Drag** the note up or down to change string position  
 - First image: note is idle  
 - Second image: note is selected  
-![Move Note](img17)
+![Move Note Free](Move_Note_Free.png)
+![Move Note Selected](Move_Note_Selected.png)
 
 ---
 
@@ -323,7 +326,7 @@ To move a note interactively:
 
 To switch to **Grid Mode**, tap the round button with **four small squares** inside.  
 It becomes active with a **blue background**.  
-![Grid Mode Button](img17)
+![Grid Mode Button](Grid_Mode_Button.png)
 
 Grid Mode offers a more structured, notation-like editing format — closer to traditional sheet music, though simplified.
 
@@ -335,14 +338,15 @@ Like in Layout Mode, you:
 
 
 In Gitamatic’s **Grid Mode**, this looks cleaner and interactive:  
-![Tab to Grid Preview](img17)
+![Tab to Grid Preview](Tab_Grid_Preview.png)
+![Tab to Grid Preview](Tab_Grid_Preview2.png)
 
 ---
 
 #### 3.5.3.1 Editing Notes in Grid Mode
 
 Double-tap any note to open the configuration window:  
-![Grid Note Edit Dialog](img17)
+![Grid Note Edit Dialog](Grid_Note_Edit_Dialog.png)
 
 ##### 3.5.3.1.1 Dynamics
 
@@ -357,7 +361,7 @@ Standard notation symbols include:
 - `f` – loud  
 - `ff` – very loud  
 - `fff` – extremely loud  
-![Dynamics Selector](img17)
+![Dynamics Selector](Dynamics_Selector.png)
 
 ---
 
@@ -375,19 +379,19 @@ Musical note durations (fractions):
 
 The smaller the fraction, the shorter and faster the note.  
 Example: note set to **1/8 duration**  
-![Note Duration in Grid](img17)
+![Note Duration in Grid](Note_Duration_Grid.png)
 
 ---
 
 ##### 3.5.3.1.3 Note Level  
 Set the fret number (like in Layout Mode)  
-![Note Level Input](img17)
+![Note Level Input](Note_Level_Input.png)
 
 ---
 
 ##### 3.5.3.1.4 Deleting a Note in Grid Mode  
 Tap the **Remove** button at the bottom of the note dialog  
-![Remove Button](img17)
+![Remove Button](Remove_Button.png)
 
 ---
 
@@ -397,8 +401,8 @@ To configure rhythm:
 
 1. Tap the **Rhythm Settings button**  
 2. A configuration window appears  
-![Rhythm Settings Button](img17)  
-![Rhythm Settings Dialog](img17)
+![Rhythm Settings Button](Rhythm_Settings_Button.png)  
+![Rhythm Settings Dialog](Rhythm_Settings_Dialog.png)
 
 
 
@@ -423,7 +427,7 @@ This allows for high-resolution note placement and playback precision.
 ##### 3.5.3.2.2 Add New Tempo/Ticks Configuration
 
 Tap the **plus button** to create a new configuration block:  
-![Add Config](img1)
+![Add Config](Add_Config.png)
 
 **Fields to enter:**
 - **Tick Index** – the tick where the new configuration begins
@@ -431,7 +435,8 @@ Tap the **plus button** to create a new configuration block:
 - **TPB** – ticks per beat
 
 **Example:** If `Index = 50`, `Tempo = 120`, `TPB = 16`, the new configuration applies starting at tick 50, until another configuration replaces it — or indefinitely.  
-![New Config Result](img1)
+![New Config Result](New_Config_Result.png)
+![New Config Result](New_Config_Result2.png)
 
 ---
 
@@ -440,7 +445,7 @@ Tap the **plus button** to create a new configuration block:
 To remove a configuration:
 1. Tap the **minus button** on the left side of the config row  
 2. Tap **Save** to confirm  
-![Delete Config](img1)
+![Delete Config](Delete_Config.png)
 
 ---
 
@@ -465,14 +470,18 @@ Accessible from:
 If no custom designs exist, only the default **Gitamatic (Built-in)** design will appear.  
 > This default design is read-only and serves as a base template for creating new ones.
 
+![Create New Design](Create_New_Design.png)
+
 ---
 
 #### 3.5.5.1 Creating a New Design
 
 1. Tap the **plus button** to add a new layout design  
+![Create New Design](Create_New_Design2.png)
 2. A new window opens with multiple customization parameters  
+![Create New Design](Create_New_Design3.png)
 3. Scroll to view all options (not all settings fit on one screen)  
-![Create New Design](img1)
+![Create New Design](Create_New_Design4.png)
 
 ---
 
@@ -480,7 +489,7 @@ If no custom designs exist, only the default **Gitamatic (Built-in)** design wil
 
 Accessible from the **main menu** (in the composition list screen).  
 Tap **Settings** to open the following options:  
-![Open Settings](img1)
+![Open Settings](Open_Settings.png)
 
 ---
 
@@ -491,7 +500,7 @@ Gitamatic supports **two languages**:
 - German *(automatically activated if the device language is set to German)*
 
 You can manually switch language by tapping the **Language** option:  
-![Language Option](img1)
+![Language Option](Language_Option.png)
 
 ---
 
@@ -508,7 +517,7 @@ Turn this ON to **receive important notifications**:
 - App updates
 - Feature announcements
 - Events and tips  
-![Notification Setting](img1)
+![Notification Setting](Notification_Setting.png)
 
 ## 4. Installation and Updates
 
