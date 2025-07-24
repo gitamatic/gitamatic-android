@@ -24,10 +24,6 @@ Currently, Gitamatic is focused primarily on acoustic guitar tools. However, fut
 
 Our mission is not only to introduce new features, but also to develop innovative solutions. We prioritize user feedback and focus on delivering tools and functionality that matter most to our community.
 
----
-
-*Stay tuned for more updates and improvements based on your needs!*
-
 ## 2. What is Guitar Tablature?
 
 **Guitar tablature** (or simply *tab*) is a simplified form of musical notation used primarily for string instruments, especially the guitar. 
