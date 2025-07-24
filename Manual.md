@@ -24,6 +24,10 @@ Currently, Gitamatic is focused primarily on acoustic guitar tools. However, fut
 
 Our mission is not only to introduce new features, but also to develop innovative solutions. We prioritize user feedback and focus on delivering tools and functionality that matter most to our community.
 
+---
+
+*Stay tuned for more updates and improvements based on your needs!*
+
 ## 2. What is Guitar Tablature?
 
 **Guitar tablature** (or simply *tab*) is a simplified form of musical notation used primarily for string instruments, especially the guitar. 
@@ -124,9 +128,12 @@ While tablature is essentially text-based, Gitamatic turns it into a powerful ex
 
 ### 3.1 First Launch
 
+
 When you open Gitamatic for the first time, there are no compositions yet.  
+![First Launch](media/First_Launch.png)
+
 Simply tap the **Add** button to create your first composition.  
-![Create Button](img1)  
+![Create Button](media/img1)  
 
 A dialog will appear prompting you to enter the **composition name**.  
 Tap **Create** to proceed.  
