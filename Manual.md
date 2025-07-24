@@ -133,7 +133,7 @@ When you open Gitamatic for the first time, there are no compositions yet.
 ![First Launch](First_Launch.png)
 
 Simply tap the **Add** button to create your first composition.  
-![Create Button](media/img1)  
+![Create Button](Create_Button.png)  
 
 A dialog will appear prompting you to enter the **composition name**.  
 Tap **Create** to proceed.  
