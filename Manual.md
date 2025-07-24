@@ -130,7 +130,7 @@ While tablature is essentially text-based, Gitamatic turns it into a powerful ex
 
 
 When you open Gitamatic for the first time, there are no compositions yet.  
-![First Launch](media/First_Launch.png)
+![First Launch](First_Launch.png)
 
 Simply tap the **Add** button to create your first composition.  
 ![Create Button](media/img1)  
