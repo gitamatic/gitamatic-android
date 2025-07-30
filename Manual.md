@@ -4,11 +4,11 @@
 
 ## 1. What is Gitamatic?
 
-**Gitamatic** is a mobile application designed for guitarists, music enthusiasts, and anyone who wants to easily create and edit their compositions directly on their phone. 
+**Gitamatic** is a mobile application designed for guitarists, music enthusiasts, and anyone looking to easily create and edit their compositions directly on their phone. 
 
-Unlike traditional tablature editors, Gitamatic offers a fresh approach to displaying and organizing notes — inspired by the interfaces of desktop digital audio workstations (DAWs).
+Unlike traditional tablature editors, Gitamatic introduces an alternative approach to displaying and organizing notes — inspired by the interfaces of desktop digital audio workstations (DAWs).
 
-The app combines multiple types of notation editors in a single, intuitive interface, allowing users to compose and edit guitar parts quickly and effortlessly.
+The app combines at least two types of notation editors, offering an intuitive interface that allows users to quickly and easily compose and edit guitar parts.
 
 ### 1.1 Key Features:
 
