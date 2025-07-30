@@ -4,29 +4,23 @@
 
 ## 1. What is Gitamatic?
 
-**Gitamatic** is a mobile application designed for guitarists, music enthusiasts, and anyone looking to easily create and edit their compositions directly on their phone. 
+**Gitamatic** is a mobile application designed for guitarists, music enthusiasts, and anyone who wants to easily create and edit their compositions directly on their phone. 
 
-Unlike traditional tablature editors, Gitamatic introduces an alternative approach to displaying and organizing notes — inspired by the interfaces of desktop digital audio workstations (DAWs).
+Unlike traditional tablature editors, Gitamatic offers a fresh approach to displaying and organizing notes — inspired by the interfaces of desktop digital audio workstations (DAWs).
 
-The app combines at least two types of notation editors, offering an intuitive interface that allows users to quickly and easily compose and edit guitar parts.
+The app combines multiple types of notation editors in a single, intuitive interface, allowing users to compose and edit guitar parts quickly and effortlessly.
 
 ### 1.1 Key Features:
+
 - Customizable falling-note visualization
-- Adjustable colors, sizes, and effects
-- Optimized for both personal use and sharing compositions on social media
+- Adjustable colors, sizes, and visual effects
+- Optimized for both personal use and sharing on social media
 
-Currently, Gitamatic is focused primarily on acoustic guitar tools. However, future updates will include support for more instruments such as:
-- Bass guitar
-- Drums
-- Ukulele
-- Piano
-- And more
+Gitamatic is built with a clear niche in mind: guitarists — especially solo players and fingerstyle performers. While DAWs, music games, and tools like guitar tuners all belong to the same musical ecosystem, they serve very different purposes. Gitamatic aims to bring together the most exciting and demanding aspects of guitar playing — all in one place: gameplay, progress tracking, learning tools, customizable settings, useful content, and everything else a guitarist might need.
 
-Our mission is not only to introduce new features, but also to develop innovative solutions. We prioritize user feedback and focus on delivering tools and functionality that matter most to our community.
+Our mission goes beyond just introducing new features — we strive to deliver innovative tools that truly matter to our users. Gitamatic is built around community feedback and focused on providing meaningful functionality that supports creativity, learning, and artistic growth.
 
 ---
-
-*Stay tuned for more updates and improvements based on your needs!*
 
 ## 2. What is Guitar Tablature?
 
