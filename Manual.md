@@ -18,7 +18,7 @@ The app combines multiple types of notation editors in a single, intuitive inter
 
 Gitamatic is built with a clear niche in mind: guitarists — especially solo players and fingerstyle performers. While DAWs, music games, and tools like guitar tuners all belong to the same musical ecosystem, they serve very different purposes. Gitamatic aims to bring together the most exciting and demanding aspects of guitar playing — all in one place: gameplay, progress tracking, learning tools, customizable settings, useful content, and everything else a guitarist might need.
 
-Our mission goes beyond just introducing new features — we strive to deliver innovative tools that truly matter to our users. Gitamatic is built around community feedback and focused on providing meaningful functionality that supports creativity, learning, and artistic growth.
+Our mission goes beyond just introducing new features — we strive to deliver innovative tools that truly matter to guitarists. Gitamatic is focused on providing meaningful functionality that supports creativity, learning, and artistic growth.
 
 ---
 
